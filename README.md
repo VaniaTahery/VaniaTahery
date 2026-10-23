@@ -1,16 +1,33 @@
-## Hi there 👋
+# Vaina Tahery
+**Computer Engineering Student | Aspiring Software Developer**
 
-<!--
-**VaniaTahery/VaniaTahery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm Vaina Tahery, a Computer Engineering student passionate about technology, programming, and learning new skills.
 
-Here are some ideas to get you started:
+I'm currently building my technical knowledge and exploring different areas of computer science and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+**Bachelor's Degree in Computer Engineering**
+
+Undergraduate Student | In Progress
+
+### Skills
+- Basic Programming Concepts
+- Computer Science Fundamentals
+- Problem Solving
+- Basic Algorithmic Thinking
+- Computer and IT Fundamentals
+
+### Soft Skills
+- Teamwork
+- Continuous Learning
+- Time Management
+- Adaptability
+
+### Career Goals
+My goal is to improve my programming skills, gain practical experience, and contribute to meaningful software development projects.
+
+
+**GitHub:** [Your GitHub Profile]
+
+**LinkedIn:** [Your LinkedIn Profile]
